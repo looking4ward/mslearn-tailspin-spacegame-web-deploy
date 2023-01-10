@@ -1,4 +1,5 @@
 Week6 - Azure DevOps lab
+Deploy naar Week6ear01 App Service
 
 # Contributing
 
